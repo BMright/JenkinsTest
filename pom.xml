@@ -55,7 +55,7 @@
                 <configuration>
                     <!--<testFailureIgnore>true</testFailureIgnore>-->
                     <suiteXmlFiles>
-                        <suiteXmlFile>testng.xml</suiteXmlFile>
+                        <suiteXmlFile>./xml/runTestng.xml</suiteXmlFile>
                         <!--此处testng.xml即为要运行的testng.xml文件
                         suiteXmlFile标签包裹.xml文件路径-->
                     </suiteXmlFiles>
