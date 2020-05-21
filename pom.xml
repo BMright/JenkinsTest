@@ -46,7 +46,6 @@
                     <encoding>UTF-8</encoding>
                 </configuration>
             </plugin>
-
             <!--执行插件-->
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
