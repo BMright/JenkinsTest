@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default Suite" duration-ms="127919" started-at="2020-05-21T11:22:34 GMT+08:00" finished-at="2020-05-21T11:24:42 GMT+08:00">
+    <groups>
+    </groups>
+    <test name="study" duration-ms="127919" started-at="2020-05-21T11:22:34 GMT+08:00" finished-at="2020-05-21T11:24:42 GMT+08:00">
+      <class name="com.primary.test.BrowserActionsTest">
+        <test-method status="PASS" signature="openChrome()[pri:0, instance:com.primary.test.BrowserActionsTest@4667ae56]" name="openChrome" is-config="true" duration-ms="11289" started-at="2020-05-21T11:22:34 GMT+08:00" finished-at="2020-05-21T11:22:45 GMT+08:00">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openChrome -->
+        <test-method status="PASS" signature="BackTest()[pri:0, instance:com.primary.test.BrowserActionsTest@4667ae56]" name="BackTest" duration-ms="6439" started-at="2020-05-21T11:22:45 GMT+08:00" finished-at="2020-05-21T11:22:51 GMT+08:00">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BackTest -->
+        <test-method status="PASS" signature="closedChrome()[pri:0, instance:com.primary.test.BrowserActionsTest@4667ae56]" name="closedChrome" is-config="true" duration-ms="4281" started-at="2020-05-21T11:22:51 GMT+08:00" finished-at="2020-05-21T11:22:56 GMT+08:00">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closedChrome -->
+        <test-method status="PASS" signature="openChrome()[pri:0, instance:com.primary.test.BrowserActionsTest@4667ae56]" name="openChrome" is-config="true" duration-ms="5975" started-at="2020-05-21T11:22:56 GMT+08:00" finished-at="2020-05-21T11:23:02 GMT+08:00">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openChrome -->
+        <test-method status="PASS" signature="ForwardTest()[pri:0, instance:com.primary.test.BrowserActionsTest@4667ae56]" name="ForwardTest" duration-ms="14892" started-at="2020-05-21T11:23:02 GMT+08:00" finished-at="2020-05-21T11:23:17 GMT+08:00">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ForwardTest -->
+        <test-method status="PASS" signature="closedChrome()[pri:0, instance:com.primary.test.BrowserActionsTest@4667ae56]" name="closedChrome" is-config="true" duration-ms="4200" started-at="2020-05-21T11:23:17 GMT+08:00" finished-at="2020-05-21T11:23:21 GMT+08:00">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closedChrome -->
+        <test-method status="PASS" signature="openChrome()[pri:0, instance:com.primary.test.BrowserActionsTest@4667ae56]" name="openChrome" is-config="true" duration-ms="6513" started-at="2020-05-21T11:23:21 GMT+08:00" finished-at="2020-05-21T11:23:27 GMT+08:00">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openChrome -->
+        <test-method status="PASS" signature="GetCurrentTitleTest()[pri:0, instance:com.primary.test.BrowserActionsTest@4667ae56]" name="GetCurrentTitleTest" duration-ms="4428" started-at="2020-05-21T11:23:27 GMT+08:00" finished-at="2020-05-21T11:23:32 GMT+08:00">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetCurrentTitleTest -->
+        <test-method status="PASS" signature="closedChrome()[pri:0, instance:com.primary.test.BrowserActionsTest@4667ae56]" name="closedChrome" is-config="true" duration-ms="4548" started-at="2020-05-21T11:23:32 GMT+08:00" finished-at="2020-05-21T11:23:36 GMT+08:00">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closedChrome -->
+        <test-method status="PASS" signature="openChrome()[pri:0, instance:com.primary.test.BrowserActionsTest@4667ae56]" name="openChrome" is-config="true" duration-ms="6303" started-at="2020-05-21T11:23:36 GMT+08:00" finished-at="2020-05-21T11:23:43 GMT+08:00">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openChrome -->
+        <test-method status="PASS" signature="GetCurrentURLTest()[pri:0, instance:com.primary.test.BrowserActionsTest@4667ae56]" name="GetCurrentURLTest" duration-ms="4207" started-at="2020-05-21T11:23:43 GMT+08:00" finished-at="2020-05-21T11:23:47 GMT+08:00">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetCurrentURLTest -->
+        <test-method status="PASS" signature="closedChrome()[pri:0, instance:com.primary.test.BrowserActionsTest@4667ae56]" name="closedChrome" is-config="true" duration-ms="4327" started-at="2020-05-21T11:23:47 GMT+08:00" finished-at="2020-05-21T11:23:51 GMT+08:00">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closedChrome -->
+        <test-method status="PASS" signature="openChrome()[pri:0, instance:com.primary.test.BrowserActionsTest@4667ae56]" name="openChrome" is-config="true" duration-ms="6173" started-at="2020-05-21T11:23:51 GMT+08:00" finished-at="2020-05-21T11:23:57 GMT+08:00">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openChrome -->
+        <test-method status="PASS" signature="RefreshTest()[pri:0, instance:com.primary.test.BrowserActionsTest@4667ae56]" name="RefreshTest" duration-ms="5034" started-at="2020-05-21T11:23:57 GMT+08:00" finished-at="2020-05-21T11:24:02 GMT+08:00">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RefreshTest -->
+        <test-method status="PASS" signature="closedChrome()[pri:0, instance:com.primary.test.BrowserActionsTest@4667ae56]" name="closedChrome" is-config="true" duration-ms="4438" started-at="2020-05-21T11:24:02 GMT+08:00" finished-at="2020-05-21T11:24:07 GMT+08:00">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closedChrome -->
+        <test-method status="PASS" signature="openChrome()[pri:0, instance:com.primary.test.BrowserActionsTest@4667ae56]" name="openChrome" is-config="true" duration-ms="6430" started-at="2020-05-21T11:24:07 GMT+08:00" finished-at="2020-05-21T11:24:13 GMT+08:00">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openChrome -->
+        <test-method status="PASS" signature="SetDimensionSizeTest()[pri:0, instance:com.primary.test.BrowserActionsTest@4667ae56]" name="SetDimensionSizeTest" duration-ms="11796" started-at="2020-05-21T11:24:13 GMT+08:00" finished-at="2020-05-21T11:24:25 GMT+08:00">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetDimensionSizeTest -->
+        <test-method status="PASS" signature="closedChrome()[pri:0, instance:com.primary.test.BrowserActionsTest@4667ae56]" name="closedChrome" is-config="true" duration-ms="4817" started-at="2020-05-21T11:24:25 GMT+08:00" finished-at="2020-05-21T11:24:30 GMT+08:00">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closedChrome -->
+        <test-method status="PASS" signature="openChrome()[pri:0, instance:com.primary.test.BrowserActionsTest@4667ae56]" name="openChrome" is-config="true" duration-ms="5981" started-at="2020-05-21T11:24:30 GMT+08:00" finished-at="2020-05-21T11:24:36 GMT+08:00">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openChrome -->
+        <test-method status="PASS" signature="openBaiDu()[pri:0, instance:com.primary.test.BrowserActionsTest@4667ae56]" name="openBaiDu" duration-ms="1532" started-at="2020-05-21T11:24:36 GMT+08:00" finished-at="2020-05-21T11:24:37 GMT+08:00">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBaiDu -->
+        <test-method status="PASS" signature="closedChrome()[pri:0, instance:com.primary.test.BrowserActionsTest@4667ae56]" name="closedChrome" is-config="true" duration-ms="4224" started-at="2020-05-21T11:24:37 GMT+08:00" finished-at="2020-05-21T11:24:42 GMT+08:00">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closedChrome -->
+      </class> <!-- com.primary.test.BrowserActionsTest -->
+    </test> <!-- study -->
+  </suite> <!-- Default Suite -->
+</testng-results>

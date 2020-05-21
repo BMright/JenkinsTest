@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="132.651" tests="7" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="PROCESSOR_ARCHITECTURE" value="AMD64"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="LOGONSERVER" value="\\LAPTOP-V6LUHV18"/>
+    <property name="ProgramData" value="C:\ProgramData"/>
+    <property name="java.home" value="D:\java\jdk\jre"/>
+    <property name="TITLE" value="Tomcat"/>
+    <property name="NODE_NAME" value="master"/>
+    <property name="JENKINS_URL" value="http://localhost:8080/jenkins/"/>
+    <property name="CATALINA_HOME" value="D:\tomcat9.0"/>
+    <property name="ALLUSERSPROFILE" value="C:\ProgramData"/>
+    <property name="java.endorsed.dirs" value="D:\java\jdk\jre\lib\endorsed"/>
+    <property name="PSModulePath" value="C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files\MySQL\MySQL Server 5.7\bin"/>
+    <property name="=::" value="::\"/>
+    <property name="USERDOMAIN" value="LAPTOP-V6LUHV18"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="JAVA_OPTS" value=" &quot;-Djdk.tls.ephemeralDHKeySize=2048&quot; -Djava.protocol.handler.pkgs=org.apache.catalina.webresources"/>
+    <property name="CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files"/>
+    <property name="java.version" value="1.8.0_181"/>
+    <property name="JOB_NAME" value="JenlinsTest"/>
+    <property name="COMPUTERNAME" value="LAPTOP-V6LUHV18"/>
+    <property name="EXECUTABLE" value="D:\tomcat9.0\bin\catalina.bat"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="PUBLIC" value="C:\Users\Public"/>
+    <property name="user.name" value="hp"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="windir" value="C:\WINDOWS"/>
+    <property name="PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 142 Stepping 9, GenuineIntel"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="LOCALAPPDATA" value="C:\Users\hp\AppData\Local"/>
+    <property name="RUN_CHANGES_DISPLAY_URL" value="http://localhost:8080/jenkins/job/JenlinsTest/4/display/redirect?page=changes"/>
+    <property name="path" value="D:\java\jdk/bin;D:\Xshell 6\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\IDM Computer Solutions\UltraEdit;C:\Program Files (x86)\Gpg4win\..\GnuPG\bin;D:\java\jdk\bin;D:\Pandoc\;C:\Users\hp\AppData\Local\Programs\Python\Python37\Scripts\;C:\Users\hp\AppData\Local\Programs\Python\Python37\;C:\Users\hp\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\Tencent\QQ\bin;C:\Program Files\MySQL\MySQL Server 5.7\bin;D:\已安装程序\CodeBlocks\MinGW\bin;C:\Program Files (x86)\Microsoft Visual Studio 9.0\Common7\IDE\PrivateAssemblies\;C:\Windows\System32;C:\Windows\System;C:\Users\hp\AppData\Roaming\npm;C:\Users\hp\AppData\Local\Yarn\bin;d:\JetBrains\IntelliJ IDEA 2020.1.1\bin;;;d:\Microsoft VS Code\bin"/>
+    <property name="user.timezone" value="GMT+08:00"/>
+    <property name="user.script" value=""/>
+    <property name="path.separator" value=";"/>
+    <property name="NUMBER_OF_PROCESSORS" value="4"/>
+    <property name="BUILD_TAG" value="jenkins-JenlinsTest-4"/>
+    <property name="file.encoding" value="GBK"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven33Main D:\apache-maven-3.3.9 D:\tomcat9.0\webapps\jenkins\WEB-INF\lib\remoting-4.2.jar C:\Users\hp\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven33-interceptor-1.13.jar C:\Users\hp\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.13.jar 51029"/>
+    <property name="HUDSON_URL" value="http://localhost:8080/jenkins/"/>
+    <property name="JENKINS_SERVER_COOKIE" value="f7380f5387c62bc9"/>
+    <property name="=D:" value="D:\tomcat9.0\bin"/>
+    <property name="EXECUTOR_NUMBER" value="1"/>
+    <property name="GIT_COMMIT" value="23b794efcfba4faf43217848e9e3db9425cde518"/>
+    <property name="java.io.tmpdir" value="C:\Users\hp\AppData\Local\Temp\"/>
+    <property name="APPDATA" value="C:\Users\hp\AppData\Roaming"/>
+    <property name="user.language" value="zh"/>
+    <property name="CATALINA_TMPDIR" value="D:\tomcat9.0\temp"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="BUILD_URL" value="http://localhost:8080/jenkins/job/JenlinsTest/4/"/>
+    <property name="ACTION" value="start"/>
+    <property name="M2_HOME" value="D:\apache-maven-3.3.9"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="DriverData" value="C:\Windows\System32\Drivers\DriverData"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="BUILD_DISPLAY_NAME" value="#4"/>
+    <property name="OS" value="Windows_NT"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="CATALINA_BASE" value="D:\tomcat9.0"/>
+    <property name="HUDSON_SERVER_COOKIE" value="f7380f5387c62bc9"/>
+    <property name="JRE_HOME" value="D:\java\jdk"/>
+    <property name="_EXECJAVA" value="start &quot;Tomcat&quot; &quot;D:\java\jdk\bin\java.exe&quot;"/>
+    <property name="WORKSPACE_TMP" value="C:\Users\hp\.jenkins\workspace\JenlinsTest@tmp"/>
+    <property name="_RUNJAVA" value="&quot;D:\java\jdk\bin\java.exe&quot;"/>
+    <property name="MAVEN_HOME" value="D:\apache-maven-3.3.9"/>
+    <property name="SESSIONNAME" value="Console"/>
+    <property name="PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="maven3.interceptor.common" value="C:\Users\hp\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.13.jar"/>
+    <property name="CLASSPATH" value=""/>
+    <property name="LOGGING_CONFIG" value="-Djava.util.logging.config.file=&quot;D:\tomcat9.0\conf\logging.properties&quot;"/>
+    <property name="HOMEPATH" value="\Users\hp"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="LNKEVN" value="C:\Program Files (x86)\Internet Explorer\iexplore.exe"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="BUILD_NUMBER" value="4"/>
+    <property name="maven3.interceptor" value="C:\Users\hp\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven33-interceptor-1.13.jar"/>
+    <property name="java.library.path" value="D:\java\jdk\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;D:\apache-maven-3.3.9/bin;D:\java\jdk/bin;D:\java\jdk/bin;D:\Xshell 6\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\IDM Computer Solutions\UltraEdit;C:\Program Files (x86)\Gpg4win\..\GnuPG\bin;D:\java\jdk\bin;D:\Pandoc\;C:\Users\hp\AppData\Local\Programs\Python\Python37\Scripts\;C:\Users\hp\AppData\Local\Programs\Python\Python37\;C:\Users\hp\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\Tencent\QQ\bin;C:\Program Files\MySQL\MySQL Server 5.7\bin;D:\已安装程序\CodeBlocks\MinGW\bin;C:\Program Files (x86)\Microsoft Visual Studio 9.0\Common7\IDE\PrivateAssemblies\;C:\Windows\System32;C:\Windows\System;C:\Users\hp\AppData\Roaming\npm;C:\Users\hp\AppData\Local\Yarn\bin;d:\JetBrains\IntelliJ IDEA 2020.1.1\bin;;;d:\Microsoft VS Code\bin;."/>
+    <property name="HOMEDRIVE" value="C:"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="JSSE_OPTS" value="&quot;-Djdk.tls.ephemeralDHKeySize=2048&quot;"/>
+    <property name="LOGGING_MANAGER" value="-Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager"/>
+    <property name="_RUNJDB" value="&quot;D:\java\jdk\bin\jdb.exe&quot;"/>
+    <property name="JOB_URL" value="http://localhost:8080/jenkins/job/JenlinsTest/"/>
+    <property name="platformcode" value="KV"/>
+    <property name="OneDrive" value="C:\Users\hp\OneDrive"/>
+    <property name="GIT_BRANCH" value="origin/master"/>
+    <property name="RUN_DISPLAY_URL" value="http://localhost:8080/jenkins/job/JenlinsTest/4/display/redirect"/>
+    <property name="MAINCLASS" value="org.apache.catalina.startup.Bootstrap"/>
+    <property name="JENKINS_HOME" value="C:\Users\hp\.jenkins"/>
+    <property name="BUILD_ID" value="4"/>
+    <property name="TEMP" value="C:\Users\hp\AppData\Local\Temp"/>
+    <property name="sun.boot.library.path" value="D:\java\jdk\jre\bin"/>
+    <property name="JDK_JAVA_OPTIONS" value=" --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.io=ALL-UNNAMED --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="user.variant" value=""/>
+    <property name="PROCESSOR_REVISION" value="8e09"/>
+    <property name="HUDSON_HOME" value="C:\Users\hp\.jenkins"/>
+    <property name="ProgramFiles(x86)" value="C:\Program Files (x86)"/>
+    <property name="PATH+MAVEN" value="D:\apache-maven-3.3.9/bin"/>
+    <property name="IntelliJ IDEA" value="d:\JetBrains\IntelliJ IDEA 2020.1.1\bin;"/>
+    <property name="USERDOMAIN_ROAMINGPROFILE" value="LAPTOP-V6LUHV18"/>
+    <property name="PROMPT" value="$P$G"/>
+    <property name="CURRENT_DIR" value="D:\tomcat9.0\bin"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="JAVA_HOME" value="D:\java\jdk"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="NODE_LABELS" value="master"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="USERPROFILE" value="C:\Users\hp"/>
+    <property name="asl.log" value="Destination=file"/>
+    <property name="JOB_DISPLAY_URL" value="http://localhost:8080/jenkins/job/JenlinsTest/display/redirect"/>
+    <property name="java.ext.dirs" value="D:\java\jdk\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\hp"/>
+    <property name="USERNAME" value="hp"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="PROCESSOR_LEVEL" value="6"/>
+    <property name="CommonProgramW6432" value="C:\Program Files\Common Files"/>
+    <property name="user.dir" value="E:\IDEA\study"/>
+    <property name="ProgramW6432" value="C:\Program Files"/>
+    <property name="TMP" value="C:\Users\hp\AppData\Local\Temp"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="SystemDrive" value="C:"/>
+    <property name="java.vm.version" value="25.181-b13"/>
+    <property name="java.class.path" value="C:\Users\hp\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven33-agent-1.13.jar;D:\apache-maven-3.3.9\boot\plexus-classworlds-2.5.2.jar;D:\apache-maven-3.3.9/conf/logging"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="RegionCode" value="APJ"/>
+    <property name="OneDriveConsumer" value="C:\Users\hp\OneDrive"/>
+    <property name="WORKSPACE" value="C:\Users\hp\.jenkins\workspace\JenlinsTest"/>
+    <property name="ComSpec" value="C:\WINDOWS\system32\cmd.exe"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="SystemRoot" value="C:\WINDOWS"/>
+    <property name="CommonProgramFiles" value="C:\Program Files\Common Files"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.runtime.version" value="1.8.0_181-b13"/>
+    <property name="sun.boot.class.path" value="D:\java\jdk\jre\lib\resources.jar;D:\java\jdk\jre\lib\rt.jar;D:\java\jdk\jre\lib\sunrsasign.jar;D:\java\jdk\jre\lib\jsse.jar;D:\java\jdk\jre\lib\jce.jar;D:\java\jdk\jre\lib\charsets.jar;D:\java\jdk\jre\lib\jfr.jar;D:\java\jdk\jre\classes"/>
+    <property name="ProgramFiles" value="C:\Program Files"/>
+    <property name="NODE_PATH" value="D:\nodejs\node_global\node_modules"/>
+    <property name="MKL_SERIAL" value="YES"/>
+    <property name="OnlineServices" value="Online Services"/>
+    <property name="PATH+JDK" value="D:\java\jdk/bin"/>
+    <property name="user.country" value="CN"/>
+    <property name="maven.home" value="D:\apache-maven-3.3.9"/>
+    <property name="ENDORSED_PROP" value="ignore.endorsed.dirs"/>
+    <property name="JOB_BASE_NAME" value="JenlinsTest"/>
+    <property name="KMP_DUPLICATE_LIB_OK" value="TRUE"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="GIT_URL" value="https://github.com/BMright/JenkinsTest.git"/>
+  </properties>
+  <testcase name="BackTest" classname="com.primary.test.BrowserActionsTest" time="6.435"/>
+  <testcase name="ForwardTest" classname="com.primary.test.BrowserActionsTest" time="14.891"/>
+  <testcase name="GetCurrentTitleTest" classname="com.primary.test.BrowserActionsTest" time="4.426"/>
+  <testcase name="GetCurrentURLTest" classname="com.primary.test.BrowserActionsTest" time="4.207"/>
+  <testcase name="RefreshTest" classname="com.primary.test.BrowserActionsTest" time="5.033"/>
+  <testcase name="SetDimensionSizeTest" classname="com.primary.test.BrowserActionsTest" time="11.796"/>
+  <testcase name="openBaiDu" classname="com.primary.test.BrowserActionsTest" time="1.533"/>
+</testsuite>
